@@ -8,7 +8,7 @@ Turtle Crossy Road is a Python game where you control a turtle trying to cross a
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Requirements](#requirements)
-- [License](#license)
+
 
 ## Introduction
 In Turtle Crossy Road, your objective is to guide the turtle safely across a multi-lane road filled with moving cars. As you progress, The game ends if the turtle collides with any of the passing cars.
